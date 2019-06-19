@@ -1,3 +1,5 @@
 Makefile
 docs
 ggacmap.Rproj
+^.*\.Rproj$
+^\.Rproj\.user$

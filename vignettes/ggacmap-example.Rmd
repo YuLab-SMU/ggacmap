@@ -23,6 +23,9 @@ The `ggacmap` function is written by `ggplot2` and take the advantages of using 
 ```{r}
 library(Racmacs)
 library(ggplot2)
+
+## installation
+## devtools::install_github("yulab-smu/ggacmap")
 library(ggacmap)
 ```
 
